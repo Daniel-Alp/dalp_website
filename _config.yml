@@ -1,7 +1,17 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
+plugins:
+  - jekyll-include-cache
 
-title: "DALP'S NOTES"
+defaults:
+  - scope:
+      path: ""
+      type: pages
+  values:
+    layout: single
+    author_profile: true
+
+title: "DAlp's Notes"
 email: danie.alp.email@gmail.com
 baseurl: "dalp_website" 
 
@@ -16,12 +26,10 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Daniel-Alp"
 
-plugins:
-  - jekyll-include-cache
-
-#Configuration
 atom_feed:
   hide: true
+
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
