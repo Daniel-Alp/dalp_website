@@ -11,7 +11,7 @@ author:
   bio: "I enjoy solving math and computer science problems!"
 
 footer:
-  links:
+  links:  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Daniel-Alp"
