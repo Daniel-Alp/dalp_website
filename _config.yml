@@ -3,14 +3,6 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
 
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
 title: "DAlp's Notes"
 email: danie.alp.email@gmail.com
 baseurl: "dalp_website" 
@@ -29,9 +21,7 @@ footer:
 atom_feed:
   hide: true
 
-include:
-  - _pages
-  - .htaccess
+include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
