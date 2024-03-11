@@ -7,9 +7,9 @@ defaults:
   - scope:
       path: ""
       type: pages
-  values:
-    layout: single
-    author_profile: true
+    values:
+      layout: single
+      author_profile: true
 
 title: "DAlp's Notes"
 email: danie.alp.email@gmail.com
