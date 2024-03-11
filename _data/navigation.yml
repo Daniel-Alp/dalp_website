@@ -1,7 +1,7 @@
 main:
   - title: "Home" 
     url: /
-  - title: "Personal Projects"
+  - title: "Projects"
     url: /projects/  
   - title: "VEX Robotics"
     url: /vex_robotics/

@@ -3,6 +3,8 @@ permalink: "/projects/"
 layout: single
 title: "Projects"
 ---
-# DAlp Blue
+# DAlpBlue (C++)
+### Engine compatible with the Universal Chess Interface.
 
-# SmardCard
+# SmardCard (Python, Typescript)
+### Flashcard app developed at Hack the North 2023.
