@@ -1,22 +1,20 @@
-#Info
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
+title: Daniel Alp's Notes
+email: danie.alp.email@gmail.com
+description: >- 
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "dalp_website" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "dalp_website" 
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
 #Configuration
-minimal_mistakes_skin: "dark"
 atom_feed:
   hide: true
 
