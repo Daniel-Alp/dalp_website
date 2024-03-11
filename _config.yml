@@ -29,6 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+atom_feed:
+  hide: true
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
