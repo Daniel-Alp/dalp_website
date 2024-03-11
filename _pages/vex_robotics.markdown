@@ -8,8 +8,8 @@ I am the three-year captain of **team 82855X**. For the past two seasons, we've 
 ### 2023-2024 VRC Season—Over Under
 Our early and middle-season robots.
 <figure class="half">
-    <a href="/assets/images/robotics/over_under/bot1.png"><img src="/assets/images/robotics/over_under/bot1.png"></a>
-    <a href="/assets/images/robotics/over_under/bot1.png"><img src="/assets/images/robotics/over_under/bot1.png"></a>
+    <img src="/assets/images/robotics/over_under/bot1.png">
+    <img src="/assets/images/robotics/over_under/bot1.png">
 </figure>
 
 
