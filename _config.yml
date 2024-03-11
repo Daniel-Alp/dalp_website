@@ -10,15 +10,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-#Configuration
-minimal_mistakes_skin: "dark"
-atom_feed:
-  hide: true
-
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
+
+#Configuration
+minimal_mistakes_skin: "dark"
+atom_feed:
+  hide: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
