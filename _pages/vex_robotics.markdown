@@ -7,7 +7,7 @@ I am the three-year captain of **team 82855X**. For the past two seasons, we've 
 
 ### 2023-2024 VRC Season—Over Under
 Our early and middle-season robots.
-<img src="/assets/images/robotics/season2024/v1.png" width="450" height="300" alt="">
-<img src="/assets/images/robotics/season2024/v1.png" width="450" height="300" alt=""> 
+<img src="../assets/images/robotics/season2024/v1.png" width="450" height="300" alt="">
+<img src="../assets/images/robotics/season2024/v1.png" width="450" height="300" alt=""> 
 
 ### 2022-2023 VRC Season—Spin up
