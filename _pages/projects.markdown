@@ -10,4 +10,4 @@ title: "Projects"
 ## SmardCard (Python, Typescript)
 ### Flashcard app developed at Hack the North 2023.
 
-{% include youtube.html id=page.0ZpTAK1_MqQ %}
+<iframe width="786" height="556" src="https://www.youtube.com/embed/0ZpTAK1_MqQ" title="SmardCard Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
