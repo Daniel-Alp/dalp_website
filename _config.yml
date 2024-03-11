@@ -4,12 +4,17 @@ minimal_mistakes_skin: "dark"
 title: "DALP'S NOTES"
 email: danie.alp.email@gmail.com
 baseurl: "dalp_website" 
-github_username:  Daniel-Alp
 
 author:
   name: "Daniel Alp"
   avatar: "/assets/images/avatar.png"
   bio: "I enjoy solving math and CS problems!"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Daniel-Alp"
 
 plugins:
   - jekyll-include-cache
