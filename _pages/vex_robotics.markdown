@@ -18,23 +18,8 @@ I am the three-year captain of **team 82855X Breaking Bots**. For the past two s
 </figure>
 
 #### Provincials:
-<figure class="third">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-</figure>
 
 #### Development:
-<figure class="third">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-</figure>
-<figure class="third">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-</figure>
 
 ### 2022-2023 VRC Season—Spin up
 #### Our early and late-season robots.
@@ -44,18 +29,8 @@ I am the three-year captain of **team 82855X Breaking Bots**. For the past two s
 </figure>
 
 #### Development:
-<figure class="third">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-</figure>
-<figure class="third">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-    <img src="../assets/images/robotics/season2024/dub.jpg">
-</figure>
 
 ### Autonomous movement
 Testing my implementation of the [PID controller](https://www.vexforum.com/uploads/short-url/buexv3XI4CflyuDzkxC9wNzTOg4.pdf):
-<iframe width="600" height="420" src="../assets/images/robotics/season2023/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
-
+<iframe width="600" height="420" src="../assets/videos/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
+<iframe width="600" height="420" src="../assets/videos/pid_test_2.mp4" title="PID Demo" frameborder=0> </iframe>
