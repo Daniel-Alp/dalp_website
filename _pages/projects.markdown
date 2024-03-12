@@ -5,6 +5,8 @@ title: "Projects"
 author_profile: true
 toc: true
 toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 ## [DAlpBlue](https://github.com/Daniel-Alp/DAlpBlue) (C++)
 **Engine compatible with the Universal Chess Interface.**<br>
