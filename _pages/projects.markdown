@@ -8,7 +8,7 @@ author_profile: true
 **Engine compatible with the Universal Chess Interface.**<br>
 The game tree of chess [grows exponentially](https://en.wikipedia.org/wiki/Shannon_number), making it too slow to explore every branch past a certain depth. So, an engine explores interesting branches more deeply and avoids/does a shallow exploration of boring branches, similar to how humans subconciously reject most moves and only consider several options. An engine decides whether a branch is interesting or boring using a variety of heuristics. This is a huge simplfication, but the essence of how engines work.
 
-My engine is based on the [alpha-beta pruning](http://www-public.telecom-sudparis.eu/~gibson/Teaching/Teaching-ReadingMaterial/KnuthMoore75.pdf) search algorithm (see below).
+<br>My engine is based on the [alpha-beta pruning](http://www-public.telecom-sudparis.eu/~gibson/Teaching/Teaching-ReadingMaterial/KnuthMoore75.pdf) search algorithm (see below).
 <img src="../assets/images/alpha_beta.png" width="600px" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom; 15px;"/> 
 <br> Additional search algorithms include: transposition tables, iterative deepening, principal variation search, aspiration windows, null move pruning, and late move reduction. To avoid the [horizon effect](https://en.wikipedia.org/wiki/Horizon_effect), the engine uses quiescence search.
 
