@@ -12,9 +12,9 @@ The game tree of chess [grows exponentially](https://en.wikipedia.org/wiki/Shann
 <img src="../assets/images/alpha_beta.png" width="600px" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom; 15px;"/> 
 <br> Additional search algorithms include: transposition tables, iterative deepening, principal variation search, aspiration windows, null move pruning, and late move reduction. To avoid the [horizon effect](https://en.wikipedia.org/wiki/Horizon_effect), the engine uses quiescence search.
 
-<br>To make the program performant, I implemented [bitboard move generation](https://www.chessprogramming.org/Bitboards) and validated it using a [Perft](https://www.chessprogramming.org/Perft) test suite. 
+To make the program performant, I implemented [bitboard move generation](https://www.chessprogramming.org/Bitboards) and validated it using a [Perft](https://www.chessprogramming.org/Perft) test suite. 
 
-<br>I tested changes using the [CuteChess CLI](https://cutechess.com/), conducting sequential probability ratio tests between the working version of the engine and previous iterations. 
+I tested changes using the [CuteChess CLI](https://cutechess.com/), conducting sequential probability ratio tests between the working version of the engine and previous iterations. 
 
 <br>Below is a demo of the engine playing against itself. The Sicilian Defense opening leads to a complicated and imbalanced position, allowing white to convert into a win due to the lower time controls.  
 <iframe width="600" height="420" src= "../assets/videos/dalpblue_demo.mp4" title="DAlpBlue Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
