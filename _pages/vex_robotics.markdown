@@ -36,5 +36,5 @@ I am the three-year captain of **team 82855X Breaking Bots**. For the past two s
 
 ### Autonomous movement
 Testing my implementation of the [PID controller](https://www.vexforum.com/uploads/short-url/buexv3XI4CflyuDzkxC9wNzTOg4.pdf):
-<iframe width="600" src="../assets/videos/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
-<iframe width="600" src="../assets/videos/pid_test_2.mp4" title="PID Demo 2" frameborder=0> </iframe>
+<iframe width="600" height="420" src="../assets/videos/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
+<iframe width="600" height="420" src="../assets/videos/pid_test_2.mp4" title="PID Demo 2" frameborder=0> </iframe>
