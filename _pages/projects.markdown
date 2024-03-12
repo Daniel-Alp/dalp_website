@@ -3,6 +3,8 @@ permalink: "/projects/"
 layout: single
 title: "Projects"
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
 ---
 ## [DAlpBlue](https://github.com/Daniel-Alp/DAlpBlue) (C++)
 **Engine compatible with the Universal Chess Interface.**<br>

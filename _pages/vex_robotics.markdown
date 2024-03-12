@@ -3,6 +3,8 @@ permalink: "/vex_robotics/"
 layout: single
 title: "VEX Robotics Competition"
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
 ---
 I am the three-year captain of **team 82855X Breaking Bots**. For the past two seasons, we've qualified for the World Championship, and at the 2024 Ontario Provincial Championship, we became the tournament finalists! Below are some highlights from these past two seasons.
 
