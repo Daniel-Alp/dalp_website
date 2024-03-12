@@ -1,6 +1,6 @@
 ---
 layout: single
+title: "About Me"
 author_profile: true
 ---
-# About me
-Hi! I am a student in Grade 12 attending the St. Theresa of Lisieux catholic high school. 
+Hi! This is a repository of my favourite projects. 
