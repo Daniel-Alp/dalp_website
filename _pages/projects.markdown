@@ -16,7 +16,7 @@ To make the program performant, I implemented [bitboard move generation](https:/
 
 I tested changes using the [CuteChess CLI](https://cutechess.com/), conducting sequential probability ratio tests between the working version of the engine and previous iterations. 
 
-<br>Below is a demo of the engine playing against itself. The Sicilian Defense opening leads to a complicated and imbalanced position, allowing white to convert into a win due to the lower time controls.  
+Below is a demo of the engine playing against itself. The Sicilian Defense opening leads to a complicated and imbalanced position, allowing white to convert into a win due to the lower time controls.  
 <iframe width="600" height="420" src= "../assets/videos/dalpblue_demo.mp4" title="DAlpBlue Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## [SmardCard](https://devpost.com/software/smardcard) (Python, Typescript)
