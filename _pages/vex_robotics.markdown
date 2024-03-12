@@ -15,7 +15,7 @@ I am the three-year captain of **team 82855X Breaking Bots**. For the past two s
 #### Early and late-season robots
 <figure class="half">
     <img src="../assets/images/robotics/season2024/v1.png">
-    <img src="../assets/images/robotics/season2024/v2.png">
+    <img src="../assets/images/robotics/season2024/v2.png" height="420" >
 </figure>
 
 #### Provincials
