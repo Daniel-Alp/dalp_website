@@ -21,6 +21,4 @@ Our early and late season robots.
 </figure>
 
 Testing my implementation of the PID controller for autonomous movement.
-<figure class="figure">
-    <video src="../assets/images/robotics/season2023/pid_test.mp4">
-</figure>
+<iframe width="786" height="556" src="../assets/images/robotics/season2023/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
