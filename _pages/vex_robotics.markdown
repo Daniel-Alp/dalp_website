@@ -43,9 +43,6 @@ I am the three-year captain of **team 82855X Breaking Bots**. For the past two s
     <img src="../assets/images/robotics/season2023/v2.png">
 </figure>
 
-Testing my implementation of the [PID controller](https://www.vexforum.com/uploads/short-url/buexv3XI4CflyuDzkxC9wNzTOg4.pdf) for autonomous movement:
-<iframe width="600" height="420" src="../assets/images/robotics/season2023/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
-
 #### Development:
 <figure class="third">
     <img src="../assets/images/robotics/season2024/dub.jpg">
@@ -57,3 +54,8 @@ Testing my implementation of the [PID controller](https://www.vexforum.com/uploa
     <img src="../assets/images/robotics/season2024/dub.jpg">
     <img src="../assets/images/robotics/season2024/dub.jpg">
 </figure>
+
+### Autonomous movement
+Testing my implementation of the [PID controller](https://www.vexforum.com/uploads/short-url/buexv3XI4CflyuDzkxC9wNzTOg4.pdf):
+<iframe width="600" height="420" src="../assets/images/robotics/season2023/pid_test.mp4" title="PID Demo" frameborder=0> </iframe>
+
