@@ -5,15 +5,22 @@ title: "Projects"
 author_profile: true
 ---
 ## [DAlpBlue](https://github.com/Daniel-Alp/DAlpBlue) (C++)
-**Engine compatible with the Universal Chess Interface.**
-This engine is based on the [negamax alpha-beta pruning](http://www-public.telecom-sudparis.eu/~gibson/Teaching/Teaching-ReadingMaterial/KnuthMoore75.pdf) search algorithm (pictured to the right). 
-<img src="../assets/images/alpha_beta.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px ;padding-right: 25px;"/> 
+**Engine compatible with the Universal Chess Interface.**<br>
+This engine is based on the [negamax alpha-beta pruning](http://www-public.telecom-sudparis.eu/~gibson/Teaching/Teaching-ReadingMaterial/KnuthMoore75.pdf) search algorithm (pictured to the right).
+<img src="../assets/images/alpha_beta.png" width="420px" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom; 15px;"/> 
+<br>Since the game tree grows exponentially, a variety of heuristics are used 
 
-Below is a demo of the engine playing against itself. Starting with the Sicilian Defense leads to an imbalanced position and a more complicated match, and the lower time controls allows white to convert it into a win.  
+<br><br>To make the program performant, I implemented [bitboard move generation](https://www.chessprogramming.org/Bitboards) and validated it using a [Perft] test suite. 
+
+<br><br>I tested changes using the [CuteChess CLI](https://cutechess.com/), conducting sequential probability ratio tests between the working version of the engine and previous iterations. 
+
+<br><br>Below is a demo of the engine playing against itself. The Sicilian Defense opening leads to a complicated and imbalanced position, allowing white to convert into a win due to the lower time controls.  
 <iframe width="786" height="556" src="https://www.youtube.com/embed/0ZpTAK1_MqQ" title="SmardCard Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## SmardCard (Python, Typescript)
-**Flashcard app developed at Hack the North 2023.**
+## [SmardCard](https://devpost.com/software/smardcard) (Python, Typescript)
+**Flashcard app developed at Hack the North (HTN) 2023.**
+At HTN, our team aimed to solve a common issue we faced: finding flashcards to study from. We created a web app that would generate custom flashcard decks from used-provided text, handwritten notes, and links. 
 
+<br><br>The frontend is built using TypeScript, NextJS, and the Mantine component library. The backend is implemented using Python and Flask. We utilized the BeautifulSoup package for webscraping. The flashcards were generated using the Cohere Large Language Model, and CockroachDB was used to store users' flashcards. 
 
 <iframe width="786" height="556" src="https://www.youtube.com/embed/0ZpTAK1_MqQ" title="SmardCard Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
