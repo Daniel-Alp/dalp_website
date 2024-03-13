@@ -8,4 +8,4 @@ header:
 excerpt: "A repository for my favourite projects"
 ---
 # A Bit About Me
-Hi! I'm a Grade 12 Student attending St. Theresa of Lisieux Catholic High School. I am interested in mathematics, computer science, and robotics, and am always finding new ways to explore these fields further. Thanks for checking out my website!
+Hi! I'm a Grade 12 Student attending St. Theresa of Lisieux Catholic High School. I am interested in mathematics, computer science, and robotics, and am always finding new ways to further explore these fields. Thanks for checking out my website!
