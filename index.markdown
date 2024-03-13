@@ -1,9 +1,13 @@
 ---
-layout: single
-title: "About Me"
-author_profile: true
-classes: wide
+layout: splash
+title: "Daniel Alp's Website"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ../assets/images/website_header
+excerpt: "A repository for my favourite projects"
+intro: 
+  - excerpt: Hi! I'm a Grade 12 Student attending St. Theresa of Lisieux Catholic High School. I am interested in mathematics, computer science, and robotics, and am always finding new ways to explore these fields further. Thanks for checking out my website!
 ---
-Hi! I'm Daniel Alp, a Grade 12 student attending St. Theresa of Lisieux Catholic High School. My interests lie in the fields of mathematics, computer science, and robotics, and I love to explore any new areas of these fields. In my school, I am involved in the Computer Science club and VEX Robotics club. Outside of school, I work part-time tutoring curriculum and competitive mathematics. 
-<br><br>This website is a repository of my favourite projects. Thanks for checking it out!
 
